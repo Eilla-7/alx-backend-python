@@ -15,7 +15,7 @@ DB_PASS = "Elolo2238~"
 def connect_db():
     """connects to the mysql database server"""
 
-    connect = mysql.connector.connet(
+    connect = mysql.connector.connect(
         user=DB_USER,
         password=DB_PASS,
         host='127.0.0.1',
