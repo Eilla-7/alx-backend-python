@@ -3,7 +3,7 @@ import mysql.connector
 # Database connection details
 DB_NAME = "ALX_prodev"
 DB_USER = "root"
-DB_PASS = "Elolo2238~"
+DB_PASS = "root"
 DB_HOST = "127.0.0.1"
 DB_PORT = 3306
 
