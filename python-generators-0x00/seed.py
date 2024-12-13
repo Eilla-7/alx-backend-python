@@ -9,7 +9,7 @@ import csv
 
 DB_NAME = "ALX_prodev"
 DB_USER = "root"
-DB_PASS = "Elolo2238~"
+DB_PASS = "root"
 
 
 def connect_db():
