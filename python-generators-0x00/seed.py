@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-file: seed.py
+Getting started with python generators
 """
 
 import mysql.connector
