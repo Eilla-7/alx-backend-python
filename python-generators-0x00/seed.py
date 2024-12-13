@@ -8,8 +8,8 @@ import mysql.connector
 import csv
 
 DB_NAME = "ALX_prodev"
-DB_USER = "root"
-DB_PASS = "root"
+DB_USER = ""
+DB_PASS = ""
 
 
 def connect_db():
