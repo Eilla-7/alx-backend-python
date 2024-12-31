@@ -1,6 +1,3 @@
-from rest_framework.permissions import IsAuthenticated
-from permissions import IsOwnerOrReadOnly
-from rest_framework.viewsets import ModelViewSet
+from django.shortcuts import render
 
-class MessageViewSet(ModelViewSet):
-    permission_classes = [IsAuthenticated, IsOwnerOrReadOnly]
+# Create your views here.
